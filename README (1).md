@@ -1,5 +1,5 @@
 
-# Digit_Recognition_Web_App
+# Digit_Recognition_Webpage
  link : 
 <br>
 <h3>Structure of App</h3>
